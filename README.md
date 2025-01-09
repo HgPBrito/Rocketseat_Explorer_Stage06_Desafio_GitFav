@@ -1,16 +1,16 @@
 <main>
 
-  <section align="center">
+  <div align="center">
 
   # Challenge: GitFav
 
-  </section>
+  </div>
 
-  <section align="center">    
+  <div align="center">    
       <a href="#about">About the Project</a> 	&nbsp;&nbsp;| &nbsp; 
       <a href="#technologies">Technologies Used</a> 	&nbsp;&nbsp;|	&nbsp;  
       <a href="#contact">Get in Touch!</a>
-  </section>
+  </div>
 <h4 align="center"> Status: Completed! </h4>
 
 ![Preview 01](https://github.com/HgPBrito/images/blob/main/projetos_realizados_capa/Rocketseat_Explorer_Stage06_Desafio_GitFav_001.png?raw=true)
