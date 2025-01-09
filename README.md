@@ -1,46 +1,42 @@
 <main>
 
-  <div align="center">
+  <section align="center">
 
-  # Desafio: GitFav
+  # Challenge: GitFav
 
-  </div>
+  </section>
 
-  <div align="center">    
-      <a href="#sobre-mim">Sobre o projeto</a> 	&nbsp;&nbsp;| &nbsp; 
-      <a href="#skills">Tecnologias usadas</a> 	&nbsp;&nbsp;|	&nbsp;  
-      <a href="#contato">Entre em contato!</a>
-  </div>
-<h4 align="center"> Status: Finalizado! </h4>
+  <section align="center">    
+      <a href="#about">About the Project</a> 	&nbsp;&nbsp;| &nbsp; 
+      <a href="#technologies">Technologies Used</a> 	&nbsp;&nbsp;|	&nbsp;  
+      <a href="#contact">Get in Touch!</a>
+  </section>
+<h4 align="center"> Status: Completed! </h4>
 
 ![Preview 01](https://github.com/HgPBrito/images/blob/main/projetos_realizados_capa/Rocketseat_Explorer_Stage06_Desafio_GitFav_001.png?raw=true)
 ![Preview 02](https://github.com/HgPBrito/images/blob/main/projetos_realizados_capa/Rocketseat_Explorer_Stage06_Desafio_GitFav_002.png?raw=true)
 ![Preview 03](https://github.com/HgPBrito/images/blob/main/projetos_realizados_capa/Rocketseat_Explorer_Stage06_Desafio_GitFav_003.png?raw=true)
 
-## 💻 Sobre o projeto
+## 💻 About the Project
 
-O GitFav é um desafio proposto e desenvolvido apenas pelo aluno no estágio 6 da trilha Explorer da Rocketseat. Nosso objetivo é criar um sistema simples utilizando a API do github. 
-<br/><br/>
-Com o GitFav, aprendemos a trabalhar as promisses e asssincronismo no js.
+GitFav is a challenge proposed and developed independently by the student during Stage 6 of Rocketseat's Explorer track. The goal is to create a simple system using the GitHub API.  
+<br/>
+With GitFav, we learned how to work with promises and asynchronous operations in JavaScript.  
 <br/>
 
 
-## 🚀 Tecnologias usadas
+## 🚀 Technologies Used
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was built using the following technologies:
 
 - JavaScript
 - HTML5
 - CSS3
-- Git e Github
+- Git and GitHub  
 <br/>
 
-## 📱 Entre em contato!  
+## 📱 Get in Touch!  
 
   <a href="https://www.linkedin.com/in/hgpbrito/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-
-
-
